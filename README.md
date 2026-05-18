@@ -1,4 +1,4 @@
-# 🤖 Python EDI Order Automation  
+# Python EDI Order Automation  
 ### Excel-to-EDI Process Automation for ERP Integration  
 
 This project automates the processing of Excel-based order files and generates standardized EDI transaction files for ERP integration. Built using Python, the automation eliminates repetitive manual data entry, improves transaction accuracy, and significantly reduces processing time in a manufacturing operations environment.
